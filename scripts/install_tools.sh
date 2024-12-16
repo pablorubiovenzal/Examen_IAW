@@ -19,3 +19,5 @@ apt-get install php-gd -y
 apt-get install php-intl -y
 
 apt-get install php-soap -y
+
+apt install php-soap -y
